@@ -1,0 +1,64 @@
+#conda activate "/Users/nomanmacbook/Desktop/lang-Chain projects/mvenv"
+#cd "/Users/nomanmacbook/Desktop/lang-Chain projects/Q&A chatbot"
+#cd "/Users/nomanmacbook/Desktop/lang-Chain projects/chat_with_pdf"
+#cd "/Users/nomanmacbook/Desktop/lang-Chain projects/search_engine"
+#cd "/Users/nomanmacbook/Desktop/lang-Chain projects/semmirize_text"
+# streamlit run practice.py
+#pip3 install -r requirements.txt
+langchain-openai
+langchain
+openai
+python-dotenv
+langchain-community
+langchain-core
+streamlit
+ollama
+langchain
+python-dotenv
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain_text_splitters
+sentence-transformers
+langchain-huggingface
+faiss-cpu
+chromadb
+Numpy
+langchain-chroma 
+unstructured
+langchain-groq
+sentence-transformers
+torch 
+sentence-transformers 
+langchain 
+langchain-chroma
+duckduckgo_search
+validators==0.28.0
+youtube_transcript_api
+unstructured
+pytube
+whisper
+ffmpeg
+numexpr
+cassandra-driver
+astrapy
+cassio 
+datasets 
+langchain 
+openai 
+tiktoken
+PyPDF2
+gradio
+duckduckgo_search==2.6.1
+pydantic==1.10.9
+#AWS enverument
+boto3
+awscli
+pypdf
+faiss-cpu
+crewai
+crewai_tools
+crewai[tools]
